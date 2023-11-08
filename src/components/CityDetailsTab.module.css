@@ -1,0 +1,11 @@
+.details {
+    text-align: center;
+  align-items: center;
+  width: 100%;
+  margin-left: 250px;
+}
+
+.details h2 {
+    margin-bottom: 5px;
+}
+

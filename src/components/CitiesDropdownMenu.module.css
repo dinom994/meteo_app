@@ -1,0 +1,49 @@
+.citiesBar {
+  margin-left: 250px;
+  width: 60%;
+  margin: auto;
+  margin-top: 10px;
+  border-radius: 10px;
+  border-width: 2px;
+  box-shadow: 0px 0px 5px #555;
+  border-color: black;
+  overflow: hidden;
+}
+
+.cityBar {
+  display: flex;
+  align-items: center;
+  height: 30px;
+  overflow: hidden;
+}
+
+.cityBarTitle {
+  margin-left: 5px;
+}
+
+.cityBarTitle button {
+  border: none; 
+  background-color: transparent; 
+  color: inherit; 
+  padding: 0; 
+  font: inherit; 
+  cursor: pointer;
+}
+
+.cityBarTitle button:hover {
+  transform: scale(1.05);
+}
+
+.cityBarStarIcon {
+  margin-left: auto;
+  margin-right: 10px;
+}
+
+.cityBarStarIcon button {
+  border-width: 0px;
+  background-color: white;
+}
+
+.cityBarStarIcon button:hover {
+  transform: scale(1.1);
+}

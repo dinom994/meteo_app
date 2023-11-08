@@ -1,0 +1,19 @@
+[
+  { "label": "America/Anchorage", "value": "America%2FAnchorage" },
+  { "label": "America/Los_Angeles", "value": "America%2FLos_Angeles" },
+  { "label": "America/Denver", "value": "America%2FDenver" },
+  { "label": "America/Chicago", "value": "America%2FChicago" },
+  { "label": "America/New_York", "value": "America%2FNew_York" },
+  { "label": "America/Sao_Paulo", "value": "America%2FSao_Paulo" },
+  { "label": "GMT+0", "value": "GMT" },
+  { "label": "Automatically detect time zone", "value": "auto" },
+  { "label": "Europe/London", "value": "Europe%2FLondon" },
+  { "label": "Europe/Berlin", "value": "Europe%2FBerlin" },
+  { "label": "Europe/Moscow", "value": "Europe%2FMoscow" },
+  { "label": "Africa/Cairo", "value": "Africa%2FCairo" },
+  { "label": "Asia/Bangkok", "value": "Asia%2FBangkok" },
+  { "label": "Asia/Singapore", "value": "Asia%2FSingapore" },
+  { "label": "Asia/Tokyo", "value": "Asia%2FTokyo" },
+  { "label": "Australia/Sydney", "value": "Australia%2FSydney" },
+  { "label": "Pacific/Auckland", "value": "Pacific%2FAuckland" }
+]

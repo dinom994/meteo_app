@@ -1,0 +1,17 @@
+h3 {
+    text-align: left;
+    margin-left: 5px;
+}
+
+.variables {
+    text-align: left;
+    margin-left: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-content: flex-start;
+}
+
+.variables span {
+    width: calc(50% - 10px); 
+  }

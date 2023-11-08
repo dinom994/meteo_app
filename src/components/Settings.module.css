@@ -1,0 +1,37 @@
+.settingsTab {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.radioButtons {
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.radioButtons label:not(:last-child) {
+    margin-right: 50px;
+}
+
+.applicationSettingsButton {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    margin-top: 100px;
+  }
+  
+  .applicationSettingsButton button {
+    border-radius: 10px;
+    border-width: 1px;
+    background-color: #b7d0d2;
+    padding: 5px;
+    margin-right: 30px;
+  }
+  .applicationSettingsButton button:last-child {
+    margin-right: 0; 
+  }
+  
+  .applicationSettingsButton button:active {
+    transform: scale(1.1);
+  }

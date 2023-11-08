@@ -1,0 +1,60 @@
+.sidebar {
+  width: 250px;
+  background-color: #b7d0d2;
+  padding: 10px;
+  height: 100vh;
+  position: fixed;
+}
+
+.cities {
+  display: flex;
+  align-items: center;
+  border: 1px solid #181818;
+  border-radius: 50px;
+  padding: 3px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+
+  height: 40px;
+}
+
+.cities p {
+  margin-left: 10px;
+}
+
+.cities button {
+  border-width: 0px;
+  background-color: #b7d0d2;
+  margin-left: auto;
+  margin-right: 5px;
+}
+
+.cities button:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+.sortButtons {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.sortButtons button {
+  border-radius: 10px;
+  border-width: 1px;
+  background-color: #676ea2;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.sortButtons button:first-child {
+  margin-right: 10px;
+}
+
+.sortButtons button:active {
+  transform: scale(1.1);
+}
+
+
